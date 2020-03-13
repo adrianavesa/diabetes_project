@@ -1,6 +1,8 @@
-#### Author: Adriana Vesa
-[LinkedIn](https://www.linkedin.com/in/adriana-v-67aa3a165/)
-[GitHub](https://github.com/adrianavesa)
+#### Author:
+Adriana Vesa
+- [LinkedIn Profile](https://www.linkedin.com/in/adriana-v-67aa3a165/)
+- [GitHub Profile](https://github.com/adrianavesa)
+advesa@gmail.com
 
 #### [Jupyter Notebook](./notebook_clean.ipynb)
 
