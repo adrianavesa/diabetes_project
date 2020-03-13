@@ -13,13 +13,13 @@ Posts published on the social media impact decisions made by people all over the
 
 ### Provided Data
 
-For this project we have four provided datasets scrapped using Pushshift's API  from 1 reddit subthreads.
+FFor this project we have acquired data by scrapping from reddit - using Pushshift's API from the type 1 diabetes reddit subthread. We have this process in the notebook [diabetes_scrapping.ipynb](./diabetes_scrapping.ipynb)
 
 ---
 
 ###  Data Dictionary
 
-For diabetes_t1_2.csv:
+For [diabetes_t1_2.csv]([./diabetes_t1_2.csv]):
 
 |Feature|Type|Description|
 |---|---|---|
