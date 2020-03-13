@@ -1,6 +1,8 @@
-#### Author: Adriana Vesa [LinkedIn](https://www.linkedin.com/in/adriana-v-67aa3a165/)
+#### Author: Adriana Vesa
+[LinkedIn](https://www.linkedin.com/in/adriana-v-67aa3a165/)
+[GitHub](https://github.com/adrianavesa)
 
-#### [Jupyter Notebook](./primary_notebook.ipynb)
+#### [Jupyter Notebook](./notebook_clean.ipynb)
 
 
 ### Problem statement
