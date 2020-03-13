@@ -2,7 +2,8 @@
 Adriana Vesa
 - [LinkedIn Profile](https://www.linkedin.com/in/adriana-v-67aa3a165/)
 - [GitHub Profile](https://github.com/adrianavesa)
-advesa@gmail.com
+- Email address - advesa@gmail.com
+- Based in New York
 
 #### [Jupyter Notebook](./notebook_clean.ipynb)
 
